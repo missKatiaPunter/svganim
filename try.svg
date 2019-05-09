@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" 
 
-
- xmlns:xlink="http://www.w3.org/1999/xlink" 	xmlns:xlink="http://www.w3.org/1999/xlink" 
+xmlns:xlink="http://www.w3.org/1999/xlink" 	xmlns:xlink="http://www.w3.org/1999/xlink" 
 width="200px" height="200px" 	width="50px" height="50px" 
 viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet">	viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet">
 
@@ -31,4 +30,4 @@ viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet">	viewBox="0 0 200 200"
 <rect x="67" y="92" width="67" height="15" rx="2" ry="2"/>
 </g>
 </g>	</g>
-</svg> 	</svg>
+</svg>
