@@ -1,4 +1,9 @@
 # svganim
 Trying to put animated .svg into github
 
-<object data="./try.svg"> </object> 
+Adding an .svg with Markdown:
+![SVG](./try.svg)
+
+Adding it inline:
+
+<img src="./try.svg">
